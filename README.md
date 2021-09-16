@@ -1,4 +1,4 @@
-# nitro-plugin for BetterDiscord 2021
+# nitro-plugin for BetterDiscord ( 2021 )
 
 updated ( working now ;)
 
