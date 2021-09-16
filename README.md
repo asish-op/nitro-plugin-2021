@@ -25,5 +25,5 @@ Unlock all screensharing modes, and use cross-server emotes & gif emotes, Discor
 
 # Use at your own Risk!
 
-- This is aganist discord terms and conditions. I am not responsible for your ban or actions 
-recommend not to use generators
+- This is aganist discord terms and conditions. I am not responsible for your ban or any actions 
+
