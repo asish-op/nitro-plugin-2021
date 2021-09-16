@@ -18,7 +18,7 @@ Unlock all screensharing modes, and use cross-server emotes & gif emotes, Discor
 With the help of this plugin you'll be able to share your screen at 60fps 1080P and also will be able to use all emojis anywhere.
 <br>
 # Instalation 
-- Download link for older version of [Better Discord](wait)
+- Download link for older version of [Better Discord](https://github.com/BetterDiscord/Installer/releases/latest/download/BetterDiscord-Windows.exe)
 - After setting it up, Open user settings scroll down until you find plugins option and click on the open plugins folder.
 - Download this [Plugin](https://github.com/asish-op/nitro-plugin-2021/releases) and drop the plugins files inside the folder.
 - Turn the Plugin On 
