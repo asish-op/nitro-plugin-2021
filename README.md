@@ -12,7 +12,7 @@ updated ( working now ;)
 
 ## Information
 
-Unlock all screensharing modes, and use cross-server emotes & gif emotes, Discord wide! updated my asish ( You CANNOT upload 100MB files though. :/ )
+Unlock all screensharing modes, and use cross-server emotes & gif emotes, Discord wide! updated by asish ( You CANNOT upload 100MB files though. :/ )
 
 # Free Discord Nitro
 With the help of this plugin you'll be able to share your screen at 60fps 1080P and also will be able to use all emojis anywhere.
