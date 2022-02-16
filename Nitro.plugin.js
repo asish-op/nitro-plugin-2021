@@ -34,12 +34,11 @@ module.exports = (() => {
             "authors": [{
                 "name": "asish",
                 "discord_id": "765512925598580737",
-                "github_username": "respecting"
+                "github_username": "asish-op"
             }],
             "version": "1.3.6",
             "description": "Unlock all screensharing modes, and use cross-server emotes & gif emotes, Discord wide! updated by asish (You CANNOT upload 100MB files though. :/)",
             "github": "https://github.com/asish-op/NitroPerks",
-            "github_raw": "https://raw.githubusercontent.com/asish-op/NitroPerks/main/NitroPerks.plugin.js"
         },
         "main": "NitroPerks.plugin.js"
     };
