@@ -1,5 +1,5 @@
 /**
- * @name Nitro
+ * @name Nitropl
  * @website https://github.com/asish-op/nitro-plugin-2021
  * @source https://github.com/asish-op/nitro-plugin-2021
  * @updateUrl https://github.com/asish-op/nitro-plugin-2021
@@ -30,7 +30,7 @@
 module.exports = (() => {
     const config = {
         "info": {
-            "name": "NitroPerks",
+            "name": "Nitropl",
             "authors": [{
                 "name": "asish",
                 "discord_id": "765512925598580737",
@@ -38,8 +38,8 @@ module.exports = (() => {
             }],
             "version": "1.3.6",
             "description": "Unlock all screensharing modes, and use cross-server emotes & gif emotes, Discord wide! updated by asish (You CANNOT upload 100MB files though. :/)",
-            "github": "https://github.com/respecting/NitroPerks",
-            "github_raw": "https://raw.githubusercontent.com/respecting/NitroPerks/main/NitroPerks.plugin.js"
+            "github": "https://github.com/asish-op/NitroPerks",
+            "github_raw": "https://raw.githubusercontent.com/asish-op/NitroPerks/main/NitroPerks.plugin.js"
         },
         "main": "NitroPerks.plugin.js"
     };
